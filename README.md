@@ -1,5 +1,7 @@
 # AI CFO & Investment Advisory Workflow Feedback Pack
 
+> Official NHATGIA public repo: <https://github.com/NHATGIA/ai-cfo-advisory>
+
 **Status:** Public feedback draft  
 **Data:** Fake sample only  
 **Purpose:** Invite comments from CFO, investment, M&A, project review, data, and workflow practitioners
