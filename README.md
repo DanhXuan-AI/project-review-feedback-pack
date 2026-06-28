@@ -1,6 +1,6 @@
 # AI CFO & Investment Advisory Workflow Feedback Pack
 
-> Official NHATGIA public repo: <https://github.com/NHATGIA/ai-cfo-advisory>
+> Official DX Advisory public repo: <https://github.com/DX-ADVISORY/ai-cfo-advisory>
 
 **Status:** Public feedback draft  
 **Data:** Fake sample only  
